@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 from mutagen.easyid3 import EasyID3
 
+
 # Main gui
 class Gui(tk.Tk):
     def __init__(self):
